@@ -17,7 +17,7 @@
 
 - A passionate Self-taught <span>Full-stack developer</sapn>
 - Currently learning Web Development by Self
-- Personal website [link](https://www.0xabd) 
+- Portfolio website [link](https://my-portfolio-seven-theta-92.vercel.app/) 
 - I’m currently open for an Intern or a new job opportunity, this is My Resume
 
 <br>
