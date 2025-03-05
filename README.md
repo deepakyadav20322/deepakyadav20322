@@ -15,11 +15,13 @@
 
 <br>
 
-- A passionate Self-taught <span>Full-stack developer</sapn>
-- Currently learning Web Development by Self
+- A passionate Self-taught <span>Full-stack developer</sapn>.
+- Currently exploring AI WORLD.
 - Portfolio website [link](https://my-portfolio-seven-theta-92.vercel.app/) 
-- I’m currently open for an Intern or a new job opportunity, this is My Resume
-
+- I’m open for an opportunity.
+- <br>
+  ## MY Projects:
+  Full stack blog Application- > Live_URL [link](https://blog-app-frontend-pi.vercel.app/) 
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
