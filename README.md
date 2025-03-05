@@ -21,7 +21,11 @@
 - I’m open for an opportunity.
 - <br>
   ## MY Projects:
-  Full stack blog Application- > Live_URL [link](https://blog-app-frontend-pi.vercel.app/) 
+ Full Stack Blog Application → [Live URL](https://blog-app-frontend-pi.vercel.app/)
+ File sharing application → [Live URL](https://doc-wave-share.netlify.app/)
+ NPM package chatgpttypewriter cursor-animation  → [Live URL](https://www.npmjs.com/package/chatgpt-typewriter-cursor)
+ Feature enrich table and json view → [Live URL](https://rezo-ai-projects.vercel.app/)
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
