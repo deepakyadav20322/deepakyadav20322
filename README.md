@@ -11,21 +11,28 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## ✨ **About me**
 
 <br>
 
-- A passionate Self-taught <span>Full-stack developer</sapn>.
+- Passionate Full Stack Developer with expertise in building scalable web applications. 
 - Currently exploring AI WORLD.
-- Portfolio website [link](https://my-portfolio-seven-theta-92.vercel.app/) 
-- I’m open for an opportunity.
-- <br>
-  ## MY Projects:
- Full Stack Blog Application → [Live URL](https://blog-app-frontend-pi.vercel.app/)
- File sharing application → [Live URL](https://doc-wave-share.netlify.app/)
- NPM package chatgpttypewriter cursor-animation  → [Live URL](https://www.npmjs.com/package/chatgpt-typewriter-cursor)
- Feature enrich table and json view → [Live URL](https://rezo-ai-projects.vercel.app/)
+-  open-source enthusiast.
+- My Portfolio website.  [Link](https://my-portfolio-seven-theta-92.vercel.app/) 
+- I’m open for an ***opportunity*** and excited to work with new ideas.
+ <br>
+ 
+  ##  📌 My Projects -
 
+| Project Name                                    | Description                                              | Live_URL |
+|------------------------------------------------|----------------------------------------------------------|----------|
+| **Full Stack Blog Application**                | A complete blogging platform with authentication, CRUD operations, and user and admin dashboard with user-friendly UI. | [Live URL](https://blog-app-frontend-pi.vercel.app/) |
+| **File Sharing Application**                   | A efficient web app for sharing files instantly. | [Live URL](https://doc-wave-share.netlify.app/) |
+| **NPM Package: ChatGPT Typewriter Cursor**     | A customizable typewriter-style cursor animation package for better text effects in web applications. | [Live URL](https://www.npmjs.com/package/chatgpt-typewriter-cursor) |
+| **Feature-Enriched Table & JSON Viewer**       | A dynamic and interactive table with advanced JSON visualization for structured data analysis. | [Live URL](https://rezo-ai-projects.vercel.app/) |
+
+<br>
+and many more.........
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
