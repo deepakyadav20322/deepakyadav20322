@@ -12,15 +12,17 @@
 
 	
 ## ✨ **About me**
+<br>
+
+### 🚀 Passionate Full Stack Developer  
+- 💻 Experienced in building **scalable web applications**  
+- 🤖 Currently exploring the world of **AI**  
+- 🌱 Open-source enthusiast and lifelong learner  
+- 🌐 [My Portfolio Website](https://my-portfolio-seven-theta-92.vercel.app/)  
+- 🎯 Always open to exciting **opportunities** and fresh ideas  
 
 <br>
 
-- Passionate Full Stack Developer with expertise in building scalable web applications. 
-- Currently exploring AI WORLD.
--  open-source enthusiast.
-- My Portfolio website.  [Link](https://my-portfolio-seven-theta-92.vercel.app/) 
-- I’m open for an ***opportunity*** and excited to work with new ideas.
- <br>
  
   ##  📌 My Projects -
 
@@ -88,14 +90,27 @@ and many more.........
 
 <br>
 <div display="inline">
-## <img  src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-  <div>
-<br>
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+## <img  src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><h3> Github Stats </h3>
 
-[![](https://github-readme-stats.vercel.app/api?username=deepakyadav20322&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/deepakyadav20322)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=deepakyadav20322&theme=material-palenight)](https://github.com/deepakyadav20322)
+
+---
+
+<div align="center">
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakyadav20322&layout=compact&theme=tokyonight&bg_color=000000&hide_border=true&card_width=620" 
+    width="620px" 
+  />
+  <br/><br/>
+  
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=deepakyadav20322&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true&card_width=620" 
+    width="620px" 
+  />
+  <br/><br/>
+
+
 </div>
 
 
@@ -108,11 +123,13 @@ and many more.........
 
 <ul>
 
-<li>
-   <a  href="https://www.linkedin.com/in/deepak-yadav-944860205/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-    </a>
-</li>
+<a href="https://www.linkedin.com/in/deepak-yadav-944860205/" target="_blank" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:deepakyadav20322@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
 	
 </ul>
 </div>
