@@ -34,7 +34,7 @@
 | **Feature-Enriched Table & JSON Viewer**       | A dynamic and interactive table with advanced JSON visualization for structured data analysis. | [Live URL](https://rezo-ai-projects.vercel.app/) |
 
 <br>
-and many more.........
+and many more.........(Assets management application)
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
